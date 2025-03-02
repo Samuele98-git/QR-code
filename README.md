@@ -1,7 +1,7 @@
 # QR-code
 Simple python program that generate a qrcode of a url.
 
-# Windows :poop: :zzz:
+# Windows
 Make sure to have python installed, than just copy and paste this into the terminal and hit enter(obviously): 
 ```
 pip install qrcode[pil] Pillow
