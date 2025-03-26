@@ -13,7 +13,7 @@ For Debian-based systems (like Ubuntu):
 ```
 sudo apt-get install python3-tk && pip install qrcode[pil] Pillow
 ```
-:eyes: For Fedora-based systems:
+For Fedora-based systems:
 ```
 sudo dnf install python3-tkinter && pip install qrcode[pil] Pillow
 ```
