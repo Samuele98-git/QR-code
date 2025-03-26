@@ -8,8 +8,8 @@ pip install qrcode[pil] Pillow
 ```
 After that just run the exe file
 
-# Install dependencies :information_desk_person:
-:eyes: For Debian-based systems (like Ubuntu):
+# Install dependencies:
+For Debian-based systems (like Ubuntu):
 ```
 sudo apt-get install python3-tk && pip install qrcode[pil] Pillow
 ```
