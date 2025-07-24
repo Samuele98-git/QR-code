@@ -72,7 +72,7 @@ def save_qr():
         else:
             messagebox.showerror("Error", "Please generate a QR code first.")
     except Exception as e:
-        messagebox.showerror("Error", f"Failed to save QR Code image: {str(e)}")
+        messagebox.showerror("Error", "Failed to save QR Code image: {str(e)}")
 
 # Create main window
 root = tk.Tk()
